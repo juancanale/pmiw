@@ -1,3 +1,4 @@
+//https://youtu.be/P70oeAFk9Xo?si=1kCFe5TdqHBrMmYl
 let jugador;
 let laberinto;
 let estadoJuego = 'inicio';
